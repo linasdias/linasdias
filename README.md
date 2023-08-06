@@ -2,7 +2,7 @@
 
   ### _bonjour, je suis Ana Carolina!_
   <p> &#x1F1E7;&#x1F1F7; &#x1F1EC;&#x1F1E7; &#x1F1EB;&#x1F1F7; &#x1F1EA;&#x1F1F8; &#x1F1EF;&#x1F1F5; &#x1F1E8;&#x1F1F3; </p>
-  <p>a computer vision researcher and front-end developer studying web design and artificial intelligence.</p>
+  <p>i'm currently studying web, design and artificial intelligence.</p>
   
 </div>
 <div align="center">
