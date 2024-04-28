@@ -7,7 +7,7 @@
 
 <p>:last_quarter_moon_with_face: <b>Currently studying:</b> AI ethics & engineering!</p>
 <p>:sparkles: <b><i>Programming</i> Languages:</b> focusing on Python & Ruby (on Rails)</p>
-<p>:sparkling_heart: <b><i>Natural</i> Languages:</b> pt-br, en, es, fr, zh, ko, ja, nl ++ <a href="https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes">(ISO 639)</a></p>
+<p>:sparkling_heart: <b><i>Natural</i> Languages:</b> pt-br, en, es, fr, zh ++ <a href="https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes">(ISO 639)</a></p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
